@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "name":"Dennis Ritchie",
+        "country":"usa",
+        "salary":1622,
+        "language":"c++",
+        "position":"sr developer",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(1).png"
+    },
+    {
+        "id":2,
+        "name":"Bjarne Stroustrup",
+        "country":"uk",
+        "salary":1045,
+        "language":"python",
+        "position":"jr developer",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1.png"
+    },
+    {
+        "id":3,
+        "name":"James Gosling",
+        "country":"germaney",
+        "salary":1141,
+        "language":"c#",
+        "position":"sr developer",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(3).png"
+    },
+    {
+        "id":4,
+        "name":"Linus Torvalds",
+        "country":"usa",
+        "salary":969,
+        "language":"java",
+        "position":"sr developer",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(4).png"
+    },
+    {
+        "id":5,
+        "name":"Anders Hejlsberg",
+        "country":"china",
+        "salary":900,
+        "language":"javascript",
+        "position":"sr developer",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(5).png"
+    },
+    {
+        "id":6,
+        "name":"Tim Berners-Lee",
+        "country":"uk",
+        "salary":850,
+        "language":"c++",
+        "position":"jr developer",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(6).png"
+    },
+    {
+        "id":7,
+        "name":"Brian Kernighan",
+        "country":"usa",
+        "salary":700,
+        "language":"java",
+        "position":"jr developer",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(7).png"
+    },
+    {
+        "id":8,
+        "name":"Ken Thompson",
+        "country":"canada",
+        "salary":640,
+        "language":"python",
+        "position":"sr developer",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(8).png"
+    },
+    {
+        "id":9,
+        "name":"Guido van Rossum",
+        "country":"australia",
+        "salary":500,
+        "language":"javascript",
+        "position":"jr developer",
+        "img":"https://cocky-mirzakhani-21d68c.netlify.app/pic.1%20(9).png"
+    }
+]
