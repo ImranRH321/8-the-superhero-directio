@@ -9,11 +9,8 @@
 
 }
 .person{
-    /* background-color: white; */
     background-color: rgb(135, 91, 204);
     color: white;
-    /* color: #000; */
-    /* margin: 10px; */
     margin: 15px 0px;
     padding: 10px 0px;
 
@@ -24,6 +21,9 @@ transition: 500ms;
 .person:hover{
      color: #000;
   background-color: white;
+
+
+     
 
 }
 
