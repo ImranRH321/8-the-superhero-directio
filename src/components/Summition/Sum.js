@@ -1,8 +1,4 @@
 import React from 'react';
-// import person from '../person/Person';
-// import Person from '../person/Person';
-// import person from '../person/person';
-// import Person from '../person/Person';
 import './../person/Person'
 
 const Sum = (props) => {
